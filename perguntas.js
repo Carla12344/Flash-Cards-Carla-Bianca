@@ -1,24 +1,24 @@
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'geografia',
+    'Qual a montanha mais alta do mundo?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'quimica',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '109 elementos'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'português',
+    'O que a palavra legend significa em português?',
+    'Lenda'
 )
 
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'quimica',
+    ' Que substância é absorvida pelas plantas e expirada por todos os seres vivos?',
+    'o dióxido de carbono'
 )
